@@ -1,2 +1,2 @@
 Hello git
-Feature work
+Feature changed this line

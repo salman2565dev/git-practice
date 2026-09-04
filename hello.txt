@@ -1,3 +1,4 @@
 Hello git
 Feature work
 Master change
+Feature changed this line

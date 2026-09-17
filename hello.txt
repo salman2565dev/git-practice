@@ -2,3 +2,5 @@ Hello Git
 Learning git
 Git is awsome
 Login feature
+New line added
+Line added from master

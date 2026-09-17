@@ -1,6 +1,5 @@
-Hello Git
-Learning git
-Git is awsome
-Login feature
-New line added
-Line added from master
+
+Hello git
+Feature work
+Master change
+Feature changed this line
